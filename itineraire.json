@@ -1,0 +1,257 @@
+{
+  "pays": "Ukraine",
+  "drapeau": "🇺🇦",
+  "symbole": "🌻",
+  "titre": "Lviv, Perle de l'Ouest Ukrainien: Un Voyage Historique et Culturel",
+  "budget_total": "2900€",
+  "duree": "7 jours",
+  "temps_vol": "20h avec escale depuis Bruneau, etats unis (via Rzeszów, Pologne, puis transfert terrestre)",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Lviv et Premiers Pas Historiques",
+      "legende": "Après un long voyage, vous arriverez à Lviv, une ville classée au patrimoine mondial de l'UNESCO. Le transfert depuis la frontière polonaise vous offrira un premier aperçu des paysages ukrainiens. Une fois installé, une douce promenade dans le cœur historique vous permettra de vous imprégner de l'atmosphère unique de cette cité millénaire, sans précipitation.",
+      "lieu": "Lviv",
+      "activites": [
+        "🛬 <strong>Arrivée et Transfert</strong>: Atterrissage à Rzeszów (Pologne), suivi d'un transfert confortable en bus ou taxi vers Lviv, la capitale culturelle de l'Ukraine occidentale.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Prenez le temps de vous installer dans votre hôtel 3 étoiles au cœur de Lviv, un moment de repos bien mérité après le voyage.",
+        "🚶‍♂️ <strong>Balade sur la Place Rynok</strong>: Découvrez la magnifique Place Rynok, le centre névralgique de Lviv, avec ses façades colorées et son ambiance animée. C'est l'endroit idéal pour une première immersion."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le transfert terrestre depuis Rzeszów (Pologne) est la voie d'accès la plus courante et sécurisée vers Lviv actuellement."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Échangez un peu de monnaie locale (Hryvnia ukrainienne, UAH) à l'arrivée pour les petites dépenses."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Immersion dans le Vieux Lviv",
+      "legende": "Aujourd'hui, plongez au cœur de l'histoire de Lviv en explorant ses trésors architecturaux et ses ruelles pavées. De la majestueuse Cathédrale Latine aux mystères de la Pharmacie-Musée, chaque coin de rue raconte une histoire. Laissez-vous charmer par l'élégance de cette ville, témoin de siècles d'influences diverses.",
+      "lieu": "Lviv",
+      "activites": [
+        "⛪ <strong>Visite de la Cathédrale Latine</strong>: Admirez l'architecture gothique et baroque de cette cathédrale emblématique, un symbole de la richesse historique et religieuse de Lviv.",
+        "🧪 <strong>Exploration de la Pharmacie-Musée</strong>: Plongez dans l'histoire de la pharmacie ukrainienne dans la plus ancienne pharmacie de Lviv, transformée en un musée fascinant avec des passages secrets.",
+        "🏛️ <strong>Découverte de l'Opéra de Lviv</strong>: Contemplez la splendeur extérieure de l'Opéra de Lviv, un chef-d'œuvre architectural inspiré de l'Opéra de Vienne, et promenez-vous dans ses environs."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Astuce",
+          "texte": "Le centre historique de Lviv est très compact et se visite facilement à pied. Prévoyez des chaussures confortables."
+        },
+        {
+          "symbole": "☕",
+          "titre": "Pause Café",
+          "texte": "Lviv est réputée pour sa culture du café. N'hésitez pas à vous arrêter dans l'un des nombreux cafés pittoresques."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌳",
+      "titre": "Panoramas et Souvenirs Éternels",
+      "legende": "Cette journée vous emmènera des hauteurs de Lviv, offrant des vues imprenables sur la ville, aux allées paisibles d'un cimetière historique. C'est une occasion de contempler la beauté de Lviv sous un autre angle et de méditer sur son passé, à travers des lieux empreints de mémoire et de sérénité. Une journée entre grandeur et recueillement.",
+      "lieu": "Lviv",
+      "activites": [
+        "⛰️ <strong>Montée à la Colline du Haut Château</strong>: Gravissez la Colline du Haut Château pour profiter d'une vue panoramique spectaculaire sur toute la ville de Lviv et ses toits colorés.",
+        "🌳 <strong>Promenade au Cimetière de Lychakiv</strong>: Visitez ce cimetière historique, véritable musée à ciel ouvert, abritant des monuments funéraires magnifiques et des tombes de personnalités ukrainiennes.",
+        "🎭 <strong>Soirée à l'Opéra (optionnel)</strong>: Si le calendrier le permet, assistez à une représentation à l'Opéra de Lviv pour une expérience culturelle inoubliable dans un cadre somptueux."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "La vue depuis la Colline du Haut Château est idéale pour des photos mémorables de Lviv."
+        },
+        {
+          "symbole": "🚶",
+          "titre": "Accès",
+          "texte": "Le Cimetière de Lychakiv est accessible en tramway depuis le centre-ville."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "☕",
+      "titre": "Saveurs et Secrets de Lviv",
+      "legende": "Découvrez les facettes les plus insolites et gourmandes de Lviv. De l'exploration souterraine d'une mine de café à la dégustation de bières artisanales dans un théâtre unique, cette journée est dédiée aux plaisirs des sens et aux découvertes surprenantes. Laissez-vous guider par les arômes et les saveurs qui font la réputation de la ville.",
+      "lieu": "Lviv",
+      "activites": [
+        "☕ <strong>Visite de la Mine de Café de Lviv</strong>: Explorez cette attraction unique où le café est prétendument \"miné\" sous terre, et dégustez un café flambé pour une expérience originale.",
+        "🍺 <strong>Dégustation au Théâtre de la Bière \"Pravda\"</strong>: Plongez dans l'univers de la bière artisanale ukrainienne au Pravda Beer Theatre, où vous pourrez goûter des bières locales accompagnées de musique live.",
+        "🎨 <strong>Flânerie dans le Quartier Arménien</strong>: Perdez-vous dans les ruelles étroites du quartier arménien, admirez son architecture unique et visitez la Cathédrale Arménienne, un joyau caché."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "La Mine de Café et le Théâtre de la Bière sont d'excellents endroits pour acheter des souvenirs originaux."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Cuisine Locale",
+          "texte": "Profitez-en pour goûter aux plats traditionnels ukrainiens comme les varenyky ou le borsch."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "👑",
+      "titre": "Châteaux des Carpates",
+      "legende": "Évadez-vous de la ville pour une journée à travers la campagne ukrainienne, à la découverte de châteaux historiques qui témoignent de la grandeur passée de la région. Olesko et Pidhirtsi, deux forteresses majestueuses, vous transporteront à l'époque des rois et des chevaliers. Une immersion dans l'histoire médiévale et baroque.",
+      "lieu": "Olesko et Pidhirtsi (excursion depuis Lviv)",
+      "activites": [
+        "🏰 <strong>Visite du Château d'Olesko</strong>: Explorez l'un des plus anciens châteaux d'Ukraine, perché sur une colline, qui a vu naître le roi de Pologne Jean III Sobieski et abrite une riche collection d'art.",
+        "👑 <strong>Découverte du Château de Pidhirtsi</strong>: Admirez les ruines majestueuses de ce palais-forteresse de style Renaissance, autrefois l'un des plus beaux d'Europe de l'Est, et son parc environnant.",
+        "🏞️ <strong>Retour et Soirée Libre à Lviv</strong>: Profitez du trajet retour pour admirer les paysages, puis détendez-vous à Lviv avec une soirée libre pour explorer à votre guise."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Transport",
+          "texte": "Cette excursion se fait généralement en voiture privée ou via un tour organisé pour plus de commodité."
+        },
+        {
+          "symbole": "🕰️",
+          "titre": "Histoire",
+          "texte": "Ces châteaux offrent un aperçu fascinant de l'histoire polonaise et ukrainienne."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🖼️",
+      "titre": "Art, Culture et Marchés Locaux",
+      "legende": "Consacrez cette journée à l'exploration de la scène artistique de Lviv et à l'immersion dans la vie quotidienne locale. Des musées aux galeries d'art, en passant par les marchés animés, découvrez la créativité et l'authenticité de la ville. C'est l'occasion parfaite pour trouver des trésors artisanaux et des souvenirs uniques.",
+      "lieu": "Lviv",
+      "activites": [
+        "🖼️ <strong>Visite du Musée National de Lviv</strong>: Explorez les collections d'art ukrainien, des icônes médiévales aux œuvres modernes, pour comprendre la richesse culturelle du pays.",
+        "🛍️ <strong>Flânerie au Marché Vernissage</strong>: Découvrez ce marché d'artisanat local où vous pourrez trouver des broderies traditionnelles, des bijoux, et d'autres souvenirs faits main.",
+        "🚶‍♀️ <strong>Exploration des Galeries d'Art Indépendantes</strong>: Parcourez les petites galeries d'art disséminées dans le centre-ville, présentant le travail d'artistes contemporains ukrainiens."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🎨",
+          "titre": "Artisanat",
+          "texte": "Les broderies (vyshyvanka) sont un excellent souvenir authentique de l'Ukraine."
+        },
+        {
+          "symbole": "🗣️",
+          "titre": "Langue",
+          "texte": "Quelques mots d'ukrainien comme \"Dyakuuyu\" (merci) seront appréciés par les locaux."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🛫",
+      "titre": "Derniers Moments et Départ",
+      "legende": "Profitez de vos dernières heures à Lviv pour quelques achats de dernière minute ou pour revisiter un lieu coup de cœur. C'est le moment de savourer un dernier café ukrainien et de faire le plein de souvenirs avant de prendre la route vers l'aéroport. Lviv vous laissera des images et des émotions inoubliables.",
+      "lieu": "Lviv",
+      "activites": [
+        "🎁 <strong>Achats de Souvenirs de Dernière Minute</strong>: Parcourez les boutiques autour de la Place Rynok pour trouver les derniers cadeaux ou souvenirs à emporter.",
+        "☕ <strong>Dernier Café Ukrainien</strong>: Savourez un dernier café dans l'un des charmants établissements de Lviv, imprégnez-vous de l'ambiance avant votre départ.",
+        "🛫 <strong>Transfert et Départ</strong>: Transfert vers Rzeszów (Pologne) pour votre vol retour, emportant avec vous les riches souvenirs de votre voyage en Ukraine."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Prévoyez suffisamment de temps pour le transfert terrestre vers Rzeszów et les formalités aéroportuaires."
+        },
+        {
+          "symbole": "✈️",
+          "titre": "Conseil",
+          "texte": "Vérifiez les horaires de vol et de transfert la veille pour éviter tout stress inutile."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "2000€/pers (vol A/R Bruneau, USA - Rzeszów, Pologne en classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "150€/pers (transfert Rzeszów-Lviv A/R, transports locaux à Lviv)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "350€/pers (7 jours à 50€/jour pour repas moyens)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "420€/pers (6 nuits en hôtel 3 étoiles à 70€/nuit)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "150€/pers (entrées musées, châteaux, dégustations, etc.)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mai, juin, septembre et début octobre.",
+      "symbole": "🌻"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La population ukrainienne est connue pour son hospitalité et sa résilience. Lviv est une ville majoritairement ukrainophone.",
+      "symbole": "🤝"
+    },
+    {
+      "titre": "L'Ukraine est le plus grand pays entièrement européen. Sa culture est riche, avec une histoire complexe et des traditions fortes.",
+      "symbole": "🌍"
+    },
+    {
+      "titre": "La monnaie est la Hryvnia ukrainienne (UAH). Les cartes bancaires sont acceptées dans la plupart des commerces, mais ayez toujours un peu de liquide.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Lviv est surnommée la \"capitale du café\" de l'Ukraine, avec une culture du café très développée et de nombreux établissements uniques.",
+      "symbole": "☕"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations générales sur le tourisme en Ukraine",
+      "titre": "Ukraine.ua",
+      "url": "https://ukraine.ua/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Office de tourisme de Lviv",
+      "titre": "Lviv Tourism",
+      "url": "https://lviv.travel/",
+      "symbole": "ℹ️"
+    },
+    {
+      "legende": "Recherche de vols (exemple)",
+      "titre": "Skyscanner",
+      "url": "https://www.skyscanner.fr/",
+      "symbole": "✈️"
+    }
+  ]
+}
